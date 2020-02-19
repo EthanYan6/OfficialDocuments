@@ -181,4 +181,4 @@ button::before, button::after {
 }
 
 /* 以后如果页面按钮太多，一屏装不下的时候，将页脚定位改为relative，即可在滚动后，统计数据始终位于最底部 */
-.mysleffooter{position:absolute;bottom:0;width:100%;height:40px;}
+.mysleffooter{position:relative;bottom:0;width:100%;height:40px;}
